@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*~
+
+# User backups (the app exports paisa-backup-*.json — never commit personal data)
+paisa-backup-*.json
+paisa-export-*.csv

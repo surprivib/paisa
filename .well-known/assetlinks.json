@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.surprivib.twa",
+      "sha256_cert_fingerprints": [
+        "EC:98:A1:42:15:F7:02:29:FA:77:80:5D:EC:1A:6F:A8:D2:34:7E:0A:8B:AD:92:44:D0:08:A9:56:D9:E0:F0:45"
+      ]
+    }
+  }
+]
